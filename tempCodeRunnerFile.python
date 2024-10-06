@@ -1,1 +1,3 @@
 print('Hello, world')
+#Я внес изменение
+print('Почему-то отображается просто Hello, world')
